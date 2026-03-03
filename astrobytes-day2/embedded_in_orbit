@@ -7,12 +7,12 @@ This is handled by **ADCS**, one of the most important systems in space engineer
 
  🔭 ADCS uses:
 
-* Reaction wheels** (to rotate the satellite smoothly)
-* Magnetorquers** (use Earth’s magnetic field to control orientation)
-* Star trackers** (camera that identifies stars for navigation)
-* Sun sensors**
-* Gyroscopes**
-* Accelerometers**
+* Reaction wheels (to rotate the satellite smoothly)
+* Magnetorquers (use Earth’s magnetic field to control orientation)
+* Star trackers (camera that identifies stars for navigation)
+* Sun sensors
+* Gyroscopes
+* Accelerometers
 
 ✨ What ADCS Does:
 
@@ -29,29 +29,29 @@ Real-time embedded systems are used in rockets, satellites, flight computers, an
 
 ⚙️ Two Types of Real-Time Systems:
 
-1. **Hard Real-Time**
+1. Hard Real-Time
 
    * Deadlines CANNOT be missed
    * Used in: rockets, avionics, control loops
 
-2. **Soft Real-Time**
+2. Soft Real-Time
 
    * Occasional delay is acceptable
    * Used in: multimedia, robotics
 
-### 🔹 Key RTOS Concepts:
+🔹 Key RTOS Concepts:
 
-* **Task scheduling**
-* **Interrupt handling**
-* **Priorities**
-* **Deterministic execution**
-* **Low-latency response**
+* Task scheduling
+* Interrupt handling
+* Priorities
+* Deterministic execution
+* Low-latency response
 
 📌 *Spacecraft OBCs rely heavily on hard real-time systems for safe operation.*
 
 ---
 
-# 🚀 **3. Space Mission Update – Rover & Exploration Missions**
+# 🚀 3. Space Mission Update – Rover & Exploration Missions
 
 Recent rover missions (like those on Mars and the Moon) rely on:
 
@@ -67,23 +67,4 @@ These missions demonstrate:
 * stronger embedded autonomy
 * lightweight, efficient hardware for long-duration missions
 
-📌 *Rovers combine space science + embedded systems beautifully — the perfect example of your learning path.*
-
----
-
-# 🌟 **Short GitHub Summary for DAY 2**
-
-### **Day 2 – Exploration Log**
-
-* **Space Fact:** ADCS (Attitude Determination & Control System) keeps satellites stable using reaction wheels, magnetorquers, and star trackers.
-* **Embedded Concept:** Real-Time Systems (RTOS), task scheduling, interrupt handling, and hard vs soft real-time behavior.
-* **Mission Update:** Rover missions showcase autonomous embedded systems and advanced space navigation technology.
-
----
-
-# 💫 Want This as a Markdown File for GitHub?
-
-If you say **“Give me Day 2 Markdown file”**, I’ll format it exactly like Day 1’s GitHub-ready file.
-
-Would you like the Day 2 README-style file too?
 
