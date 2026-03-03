@@ -1,45 +1,33 @@
  🌌 ✨ Asmita’s Space & Embedded Briefing — Day 2 🚀
 
-![Image](https://lasp.colorado.edu/snoe/files/2014/02/adcsbd.gif)
-
-![Image](https://media.futek.com/images/applications/app317.png)
-
-![Image](https://images.theengineeringprojects.com/image/main/2021/06/Real-Time-Embedded-Systems.png)
-
-![Image](https://users.ece.cmu.edu/~koopman/des_s99/real_time/rts1_fig1.gif)
-
----
-
-# 🛰 **1. Space Fact of the Day – ADCS (Attitude Determination & Control System)**
+🛰 1. Space Fact of the Day – ADCS (Attitude Determination & Control System)
 
 Satellites must know **where they are pointing** at all times.
 This is handled by **ADCS**, one of the most important systems in space engineering.
 
-### 🔭 ADCS uses:
+ 🔭 ADCS uses:
 
-* **Reaction wheels** (to rotate the satellite smoothly)
-* **Magnetorquers** (use Earth’s magnetic field to control orientation)
-* **Star trackers** (camera that identifies stars for navigation)
-* **Sun sensors**
-* **Gyroscopes**
-* **Accelerometers**
+* Reaction wheels** (to rotate the satellite smoothly)
+* Magnetorquers** (use Earth’s magnetic field to control orientation)
+* Star trackers** (camera that identifies stars for navigation)
+* Sun sensors**
+* Gyroscopes**
+* Accelerometers**
 
-### ✨ What ADCS Does:
+✨ What ADCS Does:
 
 * Keeps the satellite stable
 * Points the camera/payload at Earth
 * Maintains orientation during orbit
 * Helps with maneuvering
 
-📌 *Without ADCS, satellites would tumble uncontrollably in space.*
+📌 Without ADCS, satellites would tumble uncontrollably in space.
 
----
-
-# 🧠 **2. Embedded Concept of the Day – Real-Time Systems (RTOS Concepts)**
+🧠 2. Embedded Concept of the Day – Real-Time Systems (RTOS Concepts)
 
 Real-time embedded systems are used in rockets, satellites, flight computers, and rovers.
 
-### ⚙️ Two Types of Real-Time Systems:
+⚙️ Two Types of Real-Time Systems:
 
 1. **Hard Real-Time**
 
