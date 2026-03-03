@@ -1,7 +1,6 @@
-### **Day 2 – Exploration Log**
+Day 2 – Exploration Log
 
-* **Space Fact:** ADCS (Attitude Determination & Control System) keeps satellites stable using reaction wheels, magnetorquers, and star trackers.
-* **Embedded Concept:** Real-Time Systems (RTOS), task scheduling, interrupt handling, and hard vs soft real-time behavior.
-* **Mission Update:** Rover missions showcase autonomous embedded systems and advanced space navigation technology.
+* Space Fact: ADCS (Attitude Determination & Control System) keeps satellites stable using reaction wheels, magnetorquers, and star trackers.
+* Embedded Concept: Real-Time Systems (RTOS), task scheduling, interrupt handling, and hard vs soft real-time behavior.
+* Mission Update: Rover missions showcase autonomous embedded systems and advanced space navigation technology.
 
----
