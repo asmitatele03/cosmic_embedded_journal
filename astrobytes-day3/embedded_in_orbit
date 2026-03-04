@@ -1,23 +1,13 @@
-Here is your **GitHub-ready Day 3 file** formatted in **clean Markdown**. You can paste this directly into:
+🌌 Day 3 – Space & Embedded Exploration 🚀
 
-📄 `day3/day3_summary.md`
-or
-📄 `DAY3.md`
-
----
-
-# 🌌 Day 3 – Space & Embedded Exploration 🚀
-
-## 🚀 Asmita’s Space & Embedded Briefing
+ 🚀 Asmita’s Space & Embedded Briefing
 
 Today’s learning explored **small-satellite propulsion, firmware architecture, and space debris tracking**.
 This journey helps me understand how **embedded engineering and space systems work together** to power satellites and modern space missions.
 
----
+🛰 Space Fact of the Day – Cold Gas Thrusters
 
-## 🛰 Space Fact of the Day – Cold Gas Thrusters
-
-**Cold Gas Thrusters** are one of the simplest and safest propulsion systems used in **small satellites and CubeSats**.
+Cold Gas Thrusters are one of the simplest and safest propulsion systems used in **small satellites and CubeSats**.
 
 They work by **expelling compressed inert gas (like nitrogen)** through a nozzle to generate thrust.
 
