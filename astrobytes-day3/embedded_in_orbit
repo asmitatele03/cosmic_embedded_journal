@@ -20,27 +20,25 @@ Why They’re Useful
 
 📌 Still widely used in modern CubeSats for **fine attitude control**.
 
----
-
-## 🧠 Embedded Concept of the Day – Firmware Architecture
+🧠 Embedded Concept of the Day – Firmware Architecture
 
 Firmware is the **core software layer** that directly controls hardware in embedded systems.
 
-### Key Layers
+ Key Layers
 
-#### 🔹 Bootloader
+🔹 Bootloader
 
 * Initializes the system
 * Loads the main firmware
 
-#### 🔹 HAL (Hardware Abstraction Layer)
+🔹 HAL (Hardware Abstraction Layer)
 
 * SPI drivers
 * I2C drivers
 * UART drivers
 * Abstracts hardware complexity
 
-#### 🔹 Application Layer
+🔹 Application Layer
 
 * Control loops
 * State machines
