@@ -44,7 +44,7 @@ Firmware is the **core software layer** that directly controls hardware in embed
 * State machines
 * Mission logic
 
-### Why It Matters in Space
+Why It Matters in Space
 
 * Improves **system reliability**
 * Enables easier **updates and debugging**
@@ -53,9 +53,7 @@ Firmware is the **core software layer** that directly controls hardware in embed
 
 📌 **Good firmware design = reliable space missions.**
 
----
-
-## 🚀 Space Mission Update – Space Debris Tracking
+🚀 Space Mission Update – Space Debris Tracking
 
 Space debris has become one of the **major challenges for satellite operations**.
 
