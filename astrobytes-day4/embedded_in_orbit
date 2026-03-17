@@ -11,9 +11,7 @@ Satellites communicate with Earth using **RF (Radio Frequency) signals**:
 
 💡 Enables global services like navigation, weather monitoring, broadcasting, and spacecraft control.
 
----
-
-### 🧠 **Embedded Concept: Error Detection**
+ 🧠 **Embedded Concept: Error Detection**
 
 Reliable communication in space requires robust error detection:
 
